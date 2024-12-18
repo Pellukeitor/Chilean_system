@@ -1,1 +1,2 @@
-BaseHoraEWEPELP20z.nc contains the climate data: Temperature, wind speed, precipitation, Relative humidity, FFDI, Fire.
+BaseHoraEWEPELP20z.nc contains Climate variables and EWE with hourly resolution:
+Temperature, wind speed, precipitation, relative humidity, Relative humidity, FFDI, Fire.
